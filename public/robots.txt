@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+# Host
+Host: https://heartszibah.vercel.app/
+
+# Sitemaps
+Sitemap: https://heartszibah.vercel.app/sitemap.xml
+Sitemap: https://heartszibah.vercel.app/sitemap-0.xml
